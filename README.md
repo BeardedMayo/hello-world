@@ -1,5 +1,8 @@
 # hello-world
 
+//Author: Clay Dodson
+//Date: 06/25/2021
+//Description: This readme file contains a summary and reflection on my first project for CS 210.
 
 Summarize the project and what problem it was solving.
 What did you do particularly well?
